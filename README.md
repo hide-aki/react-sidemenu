@@ -1,5 +1,6 @@
 
 
+
 # react-sidemenu
 
 Lightweight side menu component written in React.js. No jQuery, just CSS3.
@@ -33,7 +34,9 @@ ES5 syntax:
 You can run examples by yourself. Clone the repo and do:
 
     npm install
-    gulp dev
+    npm start
+
+The examples are run using Webpack development server. 
 
 ## Options
 
